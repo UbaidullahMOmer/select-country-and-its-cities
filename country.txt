@@ -1,0 +1,3 @@
+const countries = [{name: "Pakistan", value: "pk",cities: ["Karachi","Lahore"]},
+{name: "India", value: "in",cities: ["Mumbai","Dehli"]},
+{name: "Bangladash", value: "bg",cities: ["Dhaka","Chittagong"]}]
